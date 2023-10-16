@@ -1,0 +1,12 @@
+LA UNICA LIBRERIA QUE SE USA EN EL PROGRAMA ES LA DE "colorama"
+para instalarla:
+1.Abres cmd de windows
+2.copias y pegas esto "pip install colorama"
+
+
+
+
+
+
+
+                                                             Y LISTO :)
